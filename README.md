@@ -1,4 +1,4 @@
-# 易速宝全球网络加速APP(安卓)
+# 易速宝全球网络加速
 # 易速宝产品介绍
 
 易速宝是新一代网络加速APP，可以稳定高速的访问
@@ -40,4 +40,12 @@ APP内置浏览器上网功能
 
 不会进入VPN状态
 
+支持Windows和安卓
+
+Windows：https://yisubox.com/fiberbox.exe
+
+andriod：https://yisubox.com/fiberbox_1832769303.apk
+
 详：https://yisubox.net/
+
+
